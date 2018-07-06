@@ -1,0 +1,10 @@
+asn1crypto==0.24.0
+cffi==1.11.5
+cryptography==2.2.2
+idna==2.7
+msgpack-python==0.5.6
+-e git+https://github.com/nucypher/nucypher-pre-python.git@9c76f56214fad18f0fa0acb396f1b03e10929a57#egg=npre
+pkg-resources==0.0.0
+pycparser==2.18
+pysha3==1.0.2
+six==1.11.0
